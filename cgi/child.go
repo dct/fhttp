@@ -20,7 +20,7 @@ import (
 
 	tls "github.com/bogdanfinn/utls"
 
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/dct/fhttp"
 )
 
 // Request returns the HTTP request as represented in the current

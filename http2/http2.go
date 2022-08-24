@@ -28,7 +28,7 @@ import (
 
 	tls "github.com/bogdanfinn/utls"
 
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/dct/fhttp"
 
 	"golang.org/x/net/http/httpguts"
 )

@@ -37,11 +37,11 @@ import (
 
 	tls "github.com/bogdanfinn/utls"
 
-	. "github.com/bogdanfinn/fhttp"
-	"github.com/bogdanfinn/fhttp/httptest"
-	"github.com/bogdanfinn/fhttp/httputil"
-	"github.com/bogdanfinn/fhttp/internal"
-	"github.com/bogdanfinn/fhttp/internal/testenv"
+	. "github.com/dct/fhttp"
+	"github.com/dct/fhttp/httptest"
+	"github.com/dct/fhttp/httputil"
+	"github.com/dct/fhttp/internal"
+	"github.com/dct/fhttp/internal/testenv"
 )
 
 type dummyAddr string
