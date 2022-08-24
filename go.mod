@@ -1,4 +1,4 @@
-module github.com/bogdanfinn/fhttp
+module github.com/dct/fhttp
 
 go 1.18
 
